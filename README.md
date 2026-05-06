@@ -5,6 +5,10 @@ Webcam görüntüsünden yüz landmark'ları çıkararak öğrencinin odak/uyukl
 Proje; veri ön işleme, model eğitimi ve canlı uygulama adımlarını içerir.
 
 ## Ne Yapar?
+Aşağıdaki görselde sistemin canlı çalışma anını görebilirsiniz. Sistem; EAR, MAR ve Pose verilerini anlık olarak grafiğe dökerken, sağlanan veriler üzerinden akademik risk skorunu hesaplamaktadır.
+
+![Akademik Odak Riski Analizi](<img width="631" height="505" alt="akademik risk uyari gorsel" src="https://github.com/user-attachments/assets/8666df86-0e78-4c69-b367-31fa23882d1c" />
+)
 
 - Görüntülerden `EAR`, `MAR`, `pitch`, `yaw` özelliklerini çıkarır.
 - IQR ile aykırı değer temizliği uygular.
