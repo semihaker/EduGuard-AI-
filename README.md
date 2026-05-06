@@ -1,6 +1,6 @@
 # AI-Supported Student Focus & Risk Analysis
 
-Webcam görüntüsünden yüz landmark'ları çıkararak öğrencinin odak/uyuklama riskini gerçek zamanlı tahmin eden bir ders projesi.
+Webcam görüntüsünden yüz landmark'ları çıkararak öğrencinin odak/uyuklama riskini gerçek zamanlı tahmin eden bir proje.
 
 Proje; veri ön işleme, model eğitimi ve canlı uygulama adımlarını içerir.
 
