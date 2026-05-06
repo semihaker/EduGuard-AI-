@@ -129,6 +129,3 @@ Eğitim sonrası proje kökünde:
 - `risk_model.pkl bulunamadı`
   - önce `model_training.py` veya `fix_and_run.py` çalıştırın
 
-## Lisans / Kullanım
-
-Bu proje ders çalışması amacıyla geliştirilmiştir. Akademik kullanımda MediaPipe ve ilgili literatüre atıf yapılması önerilir.
