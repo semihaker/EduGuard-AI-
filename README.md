@@ -7,7 +7,7 @@ Proje; veri ön işleme, model eğitimi ve canlı uygulama adımlarını içerir
 ## Ne Yapar?
 Aşağıdaki görselde sistemin canlı çalışma anını görebilirsiniz. Sistem; EAR, MAR ve Pose verilerini anlık olarak grafiğe dökerken, sağlanan veriler üzerinden akademik risk skorunu hesaplamaktadır.
 
-![Akademik Odak Riski Analizi](akademik risk uyari gorsel.png)
+![Akademik Odak Riski Analizi](akademik%20risk%20uyari%20gorsel.png)
 
 - Görüntülerden `EAR`, `MAR`, `pitch`, `yaw` özelliklerini çıkarır.
 - IQR ile aykırı değer temizliği uygular.
